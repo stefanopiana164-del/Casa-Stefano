@@ -6,4 +6,4 @@ services:
     region: frankfurt
     envVars:
       - key: API_PASSWORD
-        value: CasaStefano14
+        value: CasaStefano
